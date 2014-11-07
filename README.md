@@ -1,6 +1,8 @@
 test1
 =====
+Cheesecake Recipe
 
+Ingredients:
 Original recipe makes 1 - 9 or 10 inch springform pan
  2 pounds cream cheese
  3/4 cup white sugar
@@ -12,7 +14,7 @@ Original recipe makes 1 - 9 or 10 inch springform pan
  6 tablespoons melted butter
  1/4 cup white sugar
 
-Directions
+Directions:
 Preheat oven to 400 degrees F (205 degrees C).
 Mix graham cracker crumbs, melted butter, and 1/4 cup sugar together. Press mixture onto the bottom of one 9 or 10 inch springform pan. Place in freezer for 10 minutes.
 Cream 3/4 cup of the sugar and cream cheese until smooth. Beat in eggs, vanilla, and cornstarch until just mixed. Stir in sour cream until blended. Pour into prepared crust.
